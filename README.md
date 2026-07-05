@@ -192,7 +192,7 @@ A aplicação abre automaticamente em `http://localhost:3000`.
 - **Micro-entrega 2 — Autenticação e regras de negócio** *(requisitos importantes)*: implementação da tela de login, geração do token JWT no backend, tela de Promoções e aplicação/remoção de preço promocional (RF03, RF04, RF05).
 - **Micro-entrega 3 — Segurança e controle de sessão** *(reforço dos requisitos essenciais e importantes)*: criação do middleware de verificação do token JWT protegendo todas as rotas da API, proteção das rotas do frontend contra acesso direto sem login, botão de logout e script de seed para criação do primeiro usuário administrador (RF06, RF07, RF08).
 
-Os requisitos essenciais (*Must have*) foram priorizados e entregues nas duas primeiras micro-entregas, garantindo o funcionamento básico do sistema. Os requisitos de segurança, embora também essenciais, dependiam da autenticação já estar pronta, por isso foram concluídos na última micro-entrega. O cadastro de clientes (RF10) foi implementado no backend, mas não teve prioridade para ganhar uma tela própria no frontend dentro do prazo do projeto.
+
 
 ---
 
