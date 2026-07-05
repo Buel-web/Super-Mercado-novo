@@ -5,7 +5,7 @@ Sistema de gerenciamento de supermercado desenvolvido com ReactJS, Node.js e SQL
 ## 👥 Membros da Equipe
 
 Samuel De Souza Santos
-Everton Vieira git status
+Everton Vieira 
 
 ## 1. Visão Geral
 
